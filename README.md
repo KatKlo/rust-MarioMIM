@@ -1,9 +1,5 @@
 # MarioMIM
 
-## Autorzy
-[Katarzyna Kloc](https://github.com/KatKlo) - kk429317@students.mimuw.edu.pl\
-[Patryk Bundyra](https://github.com/PBundyra) - pb429159@students.mimuw.edu.pl
-
 ## Opis
 Włączcie Sweden i znów poczujcie się jak wtedy,
 gdy mając 12 lat w swoim pokoju, przekopywaliście się przez kolejne stone'y,
@@ -22,6 +18,13 @@ Chcecie podzielić się rozgrywką z innymi studentami MIM-u?
 Nic prostszego, ponieważ możecie zagrać [online](https://pbundyra.github.io/wasm-deploy/)
 i dzięki seedowi wygenerować tę samą mapę, co Twój towarzysz studenckiej podróży.
 
+## Jak grać
+- Online\
+  [link do gry](https://pbundyra.github.io/wasm-deploy/)
+- Lokalnie\
+  Należy przygotować środowisko zgodnie z [tym poradnikiem](https://bevyengine.org/learn/book/getting-started/setup/),
+  sklonować to repozytorium i zbudować grę używając komendy `cargo run`
+
 ## Biblioteki
 - [Bevy](https://bevyengine.org)
 - [Rapier](https://rapier.rs)
@@ -32,3 +35,7 @@ i dzięki seedowi wygenerować tę samą mapę, co Twój towarzysz studenckiej p
 - https://www.youtube.com/watch?v=j7qHwb7geIM&ab_channel=JeremyChone
 - https://www.youtube.com/watch?v=Yb3vInxzKGE&list=PL7r-PXl6ZPcCB_9zZFU0krBoGK3y5f5Vt&index=5&ab_channel=JeremyChone
 - https://github.com/bevyengine/bevy/tree/latest/examples
+
+## Autorzy
+[Katarzyna Kloc](https://github.com/KatKlo) - kk429317@students.mimuw.edu.pl\
+[Patryk Bundyra](https://github.com/PBundyra) - pb429159@students.mimuw.edu.pl
