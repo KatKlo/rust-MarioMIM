@@ -25,6 +25,7 @@ i dzięki seedowi wygenerować tę samą mapę, co Twój towarzysz studenckiej p
 ## Biblioteki
 - [Bevy](https://bevyengine.org)
 - [Rapier](https://rapier.rs)
+- [Kira](https://github.com/tesselode/kira)
 
 ## Materiały
 - https://dev.to/sbelzile/rust-platformer-part-1-bevy-and-ecs-2pci
